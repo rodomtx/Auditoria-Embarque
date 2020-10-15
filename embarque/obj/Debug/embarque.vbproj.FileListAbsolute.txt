@@ -1,0 +1,98 @@
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\bin\Debug\embarque.exe.config
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\bin\Debug\embarque.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\bin\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\bin\Debug\embarque.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.vbprojResolveAssemblyReference.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.empaque.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.Resources.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.vbproj.GenerateResource.Cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.audit.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\bin\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\bin\Debug\embarque.application
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\embarque\embarque\obj\Debug\embarque.application
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\bin\Debug\embarque.exe.config
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.exe
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.xml
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\bin\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\bin\Debug\embarque.application
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\bin\Debug\embarque.exe
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\bin\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\bin\Debug\embarque.xml
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.vbprojResolveAssemblyReference.cache
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.empaque.resources
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.audit.resources
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.Resources.resources
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.vbproj.GenerateResource.Cache
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive for Business\33 Dev\embarque\embarque\obj\Debug\embarque.application
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\bin\Debug\embarque.exe.config
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\bin\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\bin\Debug\embarque.application
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\bin\Debug\embarque.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\bin\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\bin\Debug\embarque.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.vbprojResolveAssemblyReference.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.empaque.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.audit.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.Resources.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.vbproj.GenerateResource.Cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.application
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation 1\33 Dev\embarque\embarque\obj\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.exe.config
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.application
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.exe
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.xml
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.empaque.resources
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.audit.resources
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.Resources.resources
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.vbproj.GenerateResource.Cache
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.application
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.exe
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.xml
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.vbprojResolveAssemblyReference.cache
+M:\33 Dev\embarque\embarque\bin\Debug\embarque.exe.config
+M:\33 Dev\embarque\embarque\bin\Debug\embarque.exe.manifest
+M:\33 Dev\embarque\embarque\bin\Debug\embarque.application
+M:\33 Dev\embarque\embarque\bin\Debug\embarque.exe
+M:\33 Dev\embarque\embarque\bin\Debug\embarque.pdb
+M:\33 Dev\embarque\embarque\bin\Debug\embarque.xml
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.empaque.resources
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.audit.resources
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.Resources.resources
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.vbproj.GenerateResource.cache
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.vbproj.CoreCompileInputs.cache
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.exe.manifest
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.application
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.exe
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.xml
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.pdb
+M:\33 Dev\embarque\embarque\obj\Debug\embarque.vbprojAssemblyReference.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.exe.config
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.application
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\bin\Debug\embarque.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.empaque.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.audit.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.Resources.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.vbproj.GenerateResource.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.vbproj.CoreCompileInputs.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.application
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\embarque\embarque\obj\Debug\embarque.vbprojAssemblyReference.cache
